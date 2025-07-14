@@ -57,4 +57,3 @@ cd S7IAM-PHISH
 chmod +x start.sh
 ./start.sh
 ```
->>>>>>> c9af87c (Resolve merge conflict in README.md)
