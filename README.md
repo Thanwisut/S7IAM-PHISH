@@ -1,6 +1,6 @@
 # S7IAM PHISHING TOOLKIT
 
-=======
+---
 <h1 align="center">🎣 S7IAM-PHISH — Next Gen Phishing Toolkit</h1>
 
 <p align="center">
