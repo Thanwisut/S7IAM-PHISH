@@ -1,0 +1,6 @@
+[Mon Jul 14 05:51:18 2025] PHP 8.4.8 Development Server (http://127.0.0.1:8080) started
+[Mon Jul 14 05:51:20 2025] 127.0.0.1:55818 Accepted
+[Mon Jul 14 05:51:20 2025] PHP Warning:  include(ip.php): Failed to open stream: No such file or directory in /home/lnwper/S7IAM-PHISH/.sites/instagram/index.php on line 2
+[Mon Jul 14 05:51:20 2025] PHP Warning:  include(): Failed opening 'ip.php' for inclusion (include_path='.:/usr/share/php') in /home/lnwper/S7IAM-PHISH/.sites/instagram/index.php on line 2
+[Mon Jul 14 05:51:20 2025] 127.0.0.1:55818 [302]: GET /
+[Mon Jul 14 05:51:20 2025] 127.0.0.1:55818 Closing

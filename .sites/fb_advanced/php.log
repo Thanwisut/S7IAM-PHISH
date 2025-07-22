@@ -1,0 +1,50 @@
+[Mon Jul 14 05:36:19 2025] PHP 8.4.8 Development Server (http://127.0.0.1:8080) started
+[Mon Jul 14 05:36:21 2025] 127.0.0.1:55328 Accepted
+[Mon Jul 14 05:36:21 2025] PHP Warning:  include(ip.php): Failed to open stream: No such file or directory in /home/lnwper/S7IAM-PHISH/.sites/fb_advanced/index.php on line 2
+[Mon Jul 14 05:36:21 2025] PHP Warning:  include(): Failed opening 'ip.php' for inclusion (include_path='.:/usr/share/php') in /home/lnwper/S7IAM-PHISH/.sites/fb_advanced/index.php on line 2
+[Mon Jul 14 05:36:21 2025] 127.0.0.1:55328 [302]: GET /
+[Mon Jul 14 05:36:21 2025] 127.0.0.1:55328 Closing
+[Mon Jul 14 05:36:27 2025] 127.0.0.1:55336 Accepted
+[Mon Jul 14 05:36:27 2025] PHP Warning:  include(ip.php): Failed to open stream: No such file or directory in /home/lnwper/S7IAM-PHISH/.sites/fb_advanced/index.php on line 2
+[Mon Jul 14 05:36:27 2025] PHP Warning:  include(): Failed opening 'ip.php' for inclusion (include_path='.:/usr/share/php') in /home/lnwper/S7IAM-PHISH/.sites/fb_advanced/index.php on line 2
+[Mon Jul 14 05:36:27 2025] 127.0.0.1:55336 [302]: GET /
+[Mon Jul 14 05:36:27 2025] 127.0.0.1:55336 Closing
+[Mon Jul 14 05:36:34 2025] 127.0.0.1:55366 Accepted
+[Mon Jul 14 05:36:34 2025] PHP Warning:  include(ip.php): Failed to open stream: No such file or directory in /home/lnwper/S7IAM-PHISH/.sites/fb_advanced/index.php on line 2
+[Mon Jul 14 05:36:34 2025] PHP Warning:  include(): Failed opening 'ip.php' for inclusion (include_path='.:/usr/share/php') in /home/lnwper/S7IAM-PHISH/.sites/fb_advanced/index.php on line 2
+[Mon Jul 14 05:36:34 2025] 127.0.0.1:55366 [302]: GET /
+[Mon Jul 14 05:36:34 2025] 127.0.0.1:55366 Closing
+[Mon Jul 14 05:36:35 2025] 127.0.0.1:55370 Accepted
+[Mon Jul 14 05:36:35 2025] 127.0.0.1:55370 [200]: GET /login.html
+[Mon Jul 14 05:36:35 2025] 127.0.0.1:55370 Closing
+[Mon Jul 14 05:36:36 2025] 127.0.0.1:55384 Accepted
+[Mon Jul 14 05:36:37 2025] PHP Warning:  include(ip.php): Failed to open stream: No such file or directory in /home/lnwper/S7IAM-PHISH/.sites/fb_advanced/index.php on line 2
+[Mon Jul 14 05:36:37 2025] PHP Warning:  include(): Failed opening 'ip.php' for inclusion (include_path='.:/usr/share/php') in /home/lnwper/S7IAM-PHISH/.sites/fb_advanced/index.php on line 2
+[Mon Jul 14 05:36:37 2025] 127.0.0.1:55384 [302]: GET /favicon.ico
+[Mon Jul 14 05:36:37 2025] 127.0.0.1:55384 Closing
+[Mon Jul 14 05:36:37 2025] 127.0.0.1:55388 Accepted
+[Mon Jul 14 05:36:38 2025] 127.0.0.1:55388 [200]: GET /login.html
+[Mon Jul 14 05:36:38 2025] 127.0.0.1:55388 Closing
+[Mon Jul 14 05:36:41 2025] 127.0.0.1:55398 Accepted
+[Mon Jul 14 05:36:41 2025] 127.0.0.1:55398 [200]: GET /login2.html?social=instagram&color=red
+[Mon Jul 14 05:36:41 2025] 127.0.0.1:55398 Closing
+[Mon Jul 14 05:36:42 2025] 127.0.0.1:55402 Accepted
+[Mon Jul 14 05:36:42 2025] PHP Warning:  include(ip.php): Failed to open stream: No such file or directory in /home/lnwper/S7IAM-PHISH/.sites/fb_advanced/index.php on line 2
+[Mon Jul 14 05:36:42 2025] PHP Warning:  include(): Failed opening 'ip.php' for inclusion (include_path='.:/usr/share/php') in /home/lnwper/S7IAM-PHISH/.sites/fb_advanced/index.php on line 2
+[Mon Jul 14 05:36:42 2025] 127.0.0.1:55402 [302]: GET /favicon.ico
+[Mon Jul 14 05:36:42 2025] 127.0.0.1:55402 Closing
+[Mon Jul 14 05:36:43 2025] 127.0.0.1:55410 Accepted
+[Mon Jul 14 05:36:43 2025] 127.0.0.1:55410 [200]: GET /login.html
+[Mon Jul 14 05:36:43 2025] 127.0.0.1:55410 Closing
+[Mon Jul 14 05:36:46 2025] 127.0.0.1:55416 Accepted
+[Mon Jul 14 05:36:46 2025] PHP Warning:  Cannot modify header information - headers already sent in /home/lnwper/S7IAM-PHISH/.sites/fb_advanced/login.php on line 6
+[Mon Jul 14 05:36:46 2025] 127.0.0.1:55416 [200]: POST /login.php
+[Mon Jul 14 05:36:46 2025] 127.0.0.1:55416 Closing
+[Mon Jul 14 05:36:47 2025] 127.0.0.1:55424 Accepted
+[Mon Jul 14 05:36:48 2025] PHP Warning:  include(ip.php): Failed to open stream: No such file or directory in /home/lnwper/S7IAM-PHISH/.sites/fb_advanced/index.php on line 2
+[Mon Jul 14 05:36:48 2025] PHP Warning:  include(): Failed opening 'ip.php' for inclusion (include_path='.:/usr/share/php') in /home/lnwper/S7IAM-PHISH/.sites/fb_advanced/index.php on line 2
+[Mon Jul 14 05:36:48 2025] 127.0.0.1:55424 [302]: GET /favicon.ico
+[Mon Jul 14 05:36:48 2025] 127.0.0.1:55424 Closing
+[Mon Jul 14 05:36:48 2025] 127.0.0.1:55428 Accepted
+[Mon Jul 14 05:36:49 2025] 127.0.0.1:55428 [200]: GET /login.html
+[Mon Jul 14 05:36:49 2025] 127.0.0.1:55428 Closing
